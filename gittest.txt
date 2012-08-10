@@ -3,3 +3,5 @@ This is a new file adding to GitHub.
 MasterBranch Add
 Slave branch add here
 Slave2 branch addition
+
+Addition directly in GitHub!!!
