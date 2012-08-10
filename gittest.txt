@@ -3,7 +3,7 @@ This is a new file adding to GitHub.
 MasterBranch Add
 Slave branch add here
 Slave2 branch addition
-
+Slave3 branch here
 Addition directly in GitHub!!!
 Command line is the best!
 Github GUI is the best!
