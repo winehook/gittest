@@ -7,3 +7,5 @@ Slave3 branch here
 Addition directly in GitHub!!!
 Command line is the best!
 Github GUI is the best!
+
+Adding more stuff here in command line
