@@ -6,3 +6,4 @@ Slave2 branch addition
 
 Addition directly in GitHub!!!
 Command line is the best!
+Github GUI is the best!
